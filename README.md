@@ -24,6 +24,9 @@ These instructions will get you a copy of the project up and running on your loc
 
 - [Scikit-learn](https://scikit-learn.org/) - The machine learning library used
 - [Librosa](https://librosa.org/) - The audio processing library used
+- [TensorFlow](https://www.tensorflow.org/) - The machine learning library used
+- [Keras](https://keras.io/) - The high-level neural network API used
+- [Matplotlib](https://matplotlib.org/) - The data visualization library used
 
 ## Authors
 

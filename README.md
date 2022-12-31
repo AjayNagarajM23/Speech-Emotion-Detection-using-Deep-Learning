@@ -14,7 +14,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Installing
 
-1. Clone the repository: `git clone https://github.com/username/speech-emotion-detection.git`
+1. Clone the repository: `git clone https://github.com/AjayNagarajM23/Speech-Emotion-Detection-using-Deep-Learning.git`
 2. Navigate to the project directory: `cd speech-emotion-detection`
 3. Create a virtual environment (optional): `virtualenv venv`
 4. Activate the virtual environment (if using one): `source venv/bin/activate`
@@ -27,6 +27,6 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Authors
 
-- [Your Name](https://github.com/AjayNagarajM23)
+- [Ajay Nagaraj M](https://github.com/AjayNagarajM23)
 
 

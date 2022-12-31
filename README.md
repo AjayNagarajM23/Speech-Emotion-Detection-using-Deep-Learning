@@ -28,6 +28,18 @@ These instructions will get you a copy of the project up and running on your loc
 - [Keras](https://keras.io/) - The high-level neural network API used
 - [Matplotlib](https://matplotlib.org/) - The data visualization library used
 
+### Datasets
+
+This project uses the following datasets:
+
+- RAVEDESS: The Ryerson Audio-Visual Database of Emotional Speech and Song (RAVDESS) is a dataset containing speech and song recordings of actors expressing different emotions.
+
+- SAVEE: The Surrey Audio-Visual Expressed Emotion (SAVEE) dataset is a collection of audio recordings of actors expressing different emotions.
+
+- CREMA-D: The CREMA-D dataset is a collection of audio recordings of actors expressing different emotions, as well as corresponding annotations of facial expressions and other contextual information.
+
+- TESS: The Toronto Emotional Speech Set (TESS) is a dataset containing audio recordings of actors expressing different emotions.
+
 ## Authors
 
 - [Ajay Nagaraj M](https://github.com/AjayNagarajM23)
